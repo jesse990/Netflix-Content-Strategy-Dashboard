@@ -4,7 +4,7 @@ A data-driven Power BI dashboard analyzing 2,200+ movies to identify high-potent
 
 ## 📊 Dashboard
 
-- [View Interactive Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMWY2Nzc3ZWEtNjNjNS00YjdhLThmMGYtMzk1ZGE4N2JlZWQ5IiwidCI6ImQxMjA2OTQzLWJmY2MtNGM3NC04MmQ0LTA1ZTYzYTQzMzViZiJ9)
+- [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWY2Nzc3ZWEtNjNjNS00YjdhLThmMGYtMzk1ZGE4N2JlZWQ5IiwidCI6ImQxMjA2OTQzLWJmY2MtNGM3NC04MmQ0LTA1ZTYzYTQzMzViZiJ9)
 
 
 ## 🎯 Features
