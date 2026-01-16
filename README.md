@@ -6,6 +6,10 @@ A data-driven Power BI dashboard analyzing 2,200+ movies to identify high-potent
 
 - [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWY2Nzc3ZWEtNjNjNS00YjdhLThmMGYtMzk1ZGE4N2JlZWQ5IiwidCI6ImQxMjA2OTQzLWJmY2MtNGM3NC04MmQ0LTA1ZTYzYTQzMzViZiJ9)
 
+## Planning
+
+- [View Initial Planning Doc](https://excalidraw.com/#json=peP1kAHjSXSWdi6jEW_k8,7fgmwI0yxn_NpWrfEmPKvA)
+
 
 ## 🎯 Features
 
